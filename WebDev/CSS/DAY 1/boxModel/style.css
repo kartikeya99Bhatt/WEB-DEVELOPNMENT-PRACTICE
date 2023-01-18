@@ -1,0 +1,16 @@
+p{
+   border: 20px solid black; 
+   width: 200px;
+   height: 200px;
+   margin: 10;
+   padding: 20px;
+}
+.saffron{
+    background-color: salmon;
+}
+.blue{
+    background-color: blue;
+}
+.green{
+    background-color: green;
+}

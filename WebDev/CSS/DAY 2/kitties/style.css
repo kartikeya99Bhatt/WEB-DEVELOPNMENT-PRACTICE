@@ -1,0 +1,60 @@
+h3{
+    font-style: normal;
+}
+.top_pic{
+    float:left;
+    position: relative;
+    width: 100px;
+    top:10px;
+    left:60px;
+}
+body{
+    background-color: lightpink;
+}
+.text_box{
+    margin: 40px;
+    padding: 20px;
+    border-radius: 40px ;
+    background-color: white;
+    width:90%;
+}
+.kitty
+{
+    width: 200px;
+    float:left;
+}
+.cow
+{
+    width:200px;
+    float:right;
+}
+span
+{
+    background-color:red;
+    font-style: oblique;
+    font-size:larger;
+}
+.pig{
+    width:200px;
+    float:left;
+}
+.Last_paragraph{
+    clear:left;
+}
+.middle
+{
+    clear:right; 
+}
+.simple_People
+{
+   width: 500px;
+   height: 600px;
+   border: 4px solid  green;
+   background-color: brown;
+   overflow:scroll;
+}
+.heading{
+    position: relative;
+    color:red ;
+    left: 300px;
+}
